@@ -1,0 +1,4 @@
+#!/bin/bash
+curl http://lesgourg.github.io/class_public/class_public-2.9.0.tar.gz | tar xz
+cd class_public-2.9.0
+PYTHON=python3 make -j all
