@@ -2,6 +2,7 @@
 Examples for the Early Universe lectures
 
 - Real universe calculation of matter power spectrum [Class_Pk.ipynb](Class_Pk.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fedxa/PHYS40772/blob/master/Class_Pk.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS40772/master?filepath=Class_Pk.ipynb)
+- Real universe calculation of CMB temperature correlations Cl [Class_Cl.ipynb](Class_Cl.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fedxa/PHYS40772/blob/master/Class_Cl.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS40772/master?filepath=Class_Cl.ipynb)
 - Mode evolution in a universe with matter and radiation [TwoComponent.ipynb](TwoComponent.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fedxa/PHYS40772/blob/master/TwoComponent.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS40772/master?filepath=TwoComponent.ipynb)
 
 - Mode evolution in a universe with matter and radiation in Mathematica [TwoComponent.nb](https://github.com/fedxa/PHYS40772/raw/master/TwoComponent.nb)
