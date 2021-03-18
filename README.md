@@ -16,9 +16,9 @@ There are several ways to use this.  One is start the [Jupyter](https://jupyter.
 
 An easier way which does not require anything installed on your computer is to click on one of the [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fedxa/PHYS40772/) links. This works immediately if you have a Google account.  You can make modifications to any of the notebooks and save them to your Google drive.
 
-If you do not want to install anything, or you do not have a Google account you may use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS40772/master). It also opens the notebooks in the cloud, though it may take (much) longer to start.  Also, if you want to save an edited notebook for future use you should download it (File->Download as->Notebook) to your computer.
+If you do not want to install anything, or you do not have a Google account you may use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS30471_env/main?urlpath=git-pull?repo=https://github.com/fedxa/PHYS40772.git). It also opens the notebooks in the cloud, though it may take (much) longer to start.  Also, if you want to save an edited notebook for future use you should download it (File->Download as->Notebook) to your computer.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS40772/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS30471_env/main?urlpath=git-pull?repo=https://github.com/fedxa/PHYS40772.git)
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fedxa/PHYS40772/)
