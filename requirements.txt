@@ -2,3 +2,7 @@ cython
 matplotlib
 numpy
 scipy
+sympy
+numba
+nbgitpuller
+seaborn
